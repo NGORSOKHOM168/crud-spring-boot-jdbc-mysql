@@ -1,0 +1,36 @@
+[2024-07-04 23:09:10,313] [main] INFO  [spring-boot-data-jdbc,,] .l.SpringBootDataJdbcApplication - Starting SpringBootDataJdbcApplication using Java 17.0.11 with PID 16344 (D:\Best Sample Project\dev-project\workspaces\spring-boot-data-jdbc\bin\main started by SOKHOM in D:\Best Sample Project\dev-project\workspaces\spring-boot-data-jdbc)
+[2024-07-04 23:09:10,316] [main] INFO  [spring-boot-data-jdbc,,] .l.SpringBootDataJdbcApplication - No active profile set, falling back to 1 default profile: "default"
+[2024-07-04 23:09:11,035] [main] INFO  [spring-boot-data-jdbc,,] .RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+[2024-07-04 23:09:11,059] [main] INFO  [spring-boot-data-jdbc,,] .RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 16 ms. Found 0 JDBC repository interfaces.
+[2024-07-04 23:09:11,595] [main] INFO  [spring-boot-data-jdbc,,] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+[2024-07-04 23:09:11,612] [main] INFO  [spring-boot-data-jdbc,,] .a.catalina.core.StandardService - Starting service [Tomcat]
+[2024-07-04 23:09:11,612] [main] INFO  [spring-boot-data-jdbc,,] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+[2024-07-04 23:09:11,690] [main] INFO  [spring-boot-data-jdbc,,] a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[2024-07-04 23:09:11,691] [main] INFO  [spring-boot-data-jdbc,,] rvletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1309 ms
+[2024-07-04 23:09:12,672] [main] INFO  [spring-boot-data-jdbc,,] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+[2024-07-04 23:09:12,683] [main] INFO  [spring-boot-data-jdbc,,] .l.SpringBootDataJdbcApplication - Started SpringBootDataJdbcApplication in 3.051 seconds (process running for 3.9)
+[2024-07-04 23:11:08,972] [http-nio-8080-exec-1] INFO  [spring-boot-data-jdbc,,] a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-07-04 23:11:08,973] [http-nio-8080-exec-1] INFO  [spring-boot-data-jdbc,,] .s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[2024-07-04 23:11:08,974] [http-nio-8080-exec-1] INFO  [spring-boot-data-jdbc,,] .s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[2024-07-04 23:11:08,993] [http-nio-8080-exec-1] WARN  [spring-boot-data-jdbc,,] .DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+[2024-07-04 23:11:32,438] [http-nio-8080-exec-3] INFO  [spring-boot-data-jdbc,,] com.learning.dao.UserDao         - Inside getUserList: successfully
+[2024-07-04 23:12:59,212] [RMI TCP Connection(13)-127.0.0.1] INFO  [spring-boot-data-jdbc,,] Registrar$SpringApplicationAdmin - Application shutdown requested.
+[2024-07-04 23:13:01,921] [main] INFO  [spring-boot-data-jdbc,,] .l.SpringBootDataJdbcApplication - Starting SpringBootDataJdbcApplication using Java 17.0.11 with PID 15908 (D:\Best Sample Project\dev-project\workspaces\spring-boot-data-jdbc\bin\main started by SOKHOM in D:\Best Sample Project\dev-project\workspaces\spring-boot-data-jdbc)
+[2024-07-04 23:13:01,924] [main] INFO  [spring-boot-data-jdbc,,] .l.SpringBootDataJdbcApplication - No active profile set, falling back to 1 default profile: "default"
+[2024-07-04 23:13:02,657] [main] INFO  [spring-boot-data-jdbc,,] .RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+[2024-07-04 23:13:02,683] [main] INFO  [spring-boot-data-jdbc,,] .RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 19 ms. Found 0 JDBC repository interfaces.
+[2024-07-04 23:13:03,207] [main] INFO  [spring-boot-data-jdbc,,] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+[2024-07-04 23:13:03,222] [main] INFO  [spring-boot-data-jdbc,,] .a.catalina.core.StandardService - Starting service [Tomcat]
+[2024-07-04 23:13:03,222] [main] INFO  [spring-boot-data-jdbc,,] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+[2024-07-04 23:13:03,314] [main] INFO  [spring-boot-data-jdbc,,] a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[2024-07-04 23:13:03,315] [main] INFO  [spring-boot-data-jdbc,,] rvletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1325 ms
+[2024-07-04 23:13:04,458] [main] INFO  [spring-boot-data-jdbc,,] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+[2024-07-04 23:13:04,470] [main] INFO  [spring-boot-data-jdbc,,] .l.SpringBootDataJdbcApplication - Started SpringBootDataJdbcApplication in 3.184 seconds (process running for 4.044)
+[2024-07-04 23:13:29,687] [http-nio-8080-exec-1] INFO  [spring-boot-data-jdbc,,] a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-07-04 23:13:29,687] [http-nio-8080-exec-1] INFO  [spring-boot-data-jdbc,,] .s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[2024-07-04 23:13:29,688] [http-nio-8080-exec-1] INFO  [spring-boot-data-jdbc,,] .s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[2024-07-04 23:13:29,937] [http-nio-8080-exec-1] INFO  [spring-boot-data-jdbc,,] com.learning.dao.UserDao         - Inside getUserList: successfully
+[2024-07-04 23:15:29,083] [http-nio-8080-exec-5] INFO  [spring-boot-data-jdbc,,] com.learning.dao.UserDao         - Inside addNewUser: Inserted successfully!
+[2024-07-04 23:15:39,774] [http-nio-8080-exec-6] INFO  [spring-boot-data-jdbc,,] com.learning.dao.UserDao         - Inside addNewUser: Inserted successfully!
+[2024-07-04 23:15:45,829] [http-nio-8080-exec-7] INFO  [spring-boot-data-jdbc,,] com.learning.dao.UserDao         - Inside getUserList: successfully
+[2024-07-04 23:52:37,254] [RMI TCP Connection(48)-127.0.0.1] INFO  [spring-boot-data-jdbc,,] Registrar$SpringApplicationAdmin - Application shutdown requested.
